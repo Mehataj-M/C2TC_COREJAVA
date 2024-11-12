@@ -1,4 +1,4 @@
-package com.tns.ifet.day10.Array;
+package com.tns.ifet.day10.multiDimArray;
 
 //Program to define class with Multidimensional array
 

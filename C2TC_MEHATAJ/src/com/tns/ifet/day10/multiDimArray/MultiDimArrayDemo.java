@@ -1,4 +1,4 @@
-package com.tns.ifet.day10.Array;
+package com.tns.ifet.day10.multiDimArray;
 
 //Program to demonstrate Multidimensional Array
 
