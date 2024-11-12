@@ -1,4 +1,4 @@
-package com.tns.ifet.day4;
+package com.tns.ifet.day3;
 
 import java.util.Scanner;
 

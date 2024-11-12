@@ -1,4 +1,4 @@
-package com.tns.ifet.day4;
+package com.tns.ifet.day3.encapsulation;
 
 public class EncapsulationDemo {
 	public static void main(String[] args) {

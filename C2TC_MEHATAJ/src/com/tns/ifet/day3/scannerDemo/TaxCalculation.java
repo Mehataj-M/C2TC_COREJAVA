@@ -1,4 +1,4 @@
-package com.tns.ifet.day4;
+package com.tns.ifet.day3.scannerDemo;
 
 public class TaxCalculation {
 	public void calculateTax(Person person) {
