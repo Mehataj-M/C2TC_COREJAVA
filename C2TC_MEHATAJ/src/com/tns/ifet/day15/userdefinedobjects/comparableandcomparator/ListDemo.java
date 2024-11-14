@@ -29,12 +29,12 @@ public class ListDemo {
 	public static void main(String[] args) {
 		// Adding User Defined objects into ArrayList
 		//List studentList = new ArrayList(); //
-		Point p1=new Point(12,4.5f);
+		Point p=new Point(12,4.5f);
 		Point p2=new Point(10,20);
 		List<Point> pList=new ArrayList<Point>();
-		pList.add(p1);
+		pList.add(p);
 		pList.add(p2);
-		Collections.sort(pList);
+	//	Collections.sort(pList);
 		
 		List<Student> studentList = new ArrayList<Student>();
 		Student s1 = new Student(11, "Pooja", 78);
